@@ -12,4 +12,4 @@ If you would like a change to a security policy or wish specific questions to be
 
 Change requests must be limited to improvements to the public content in this repository. We will not fill in your security review for free products, even if you offer payment for the time taken to perform them.
 
-If your request relates to a paid product within the Atlassian ecosystem, you can either submit an issue on this project, or email support@draw.io. You are free to propose any changes, but smaller, well explained additions and changes are more likely to be taken for review.
+If your request relates to a paid product within the Atlassian ecosystem, you can either submit an issue on this project, or email support@draw.io.
