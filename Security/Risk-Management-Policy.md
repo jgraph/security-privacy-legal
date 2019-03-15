@@ -16,6 +16,7 @@ JGraph Ltd aims to provide free, high quality diagramming software for everyone.
 ### Purpose
 
 This policy defines the requirements for identifying, handling, and managing risk throughout JGraph Ltd. Alignment of the risk management policy across business functions is essential to ensuring risk is understood and addressed appropriately.
+
 As JGraph Ltd is a technology focused organisation, it maintains an inherent amount of technology based risk. It is important for the business to understand and align these risks with their business objectives and goals.
 
 ### Scope
