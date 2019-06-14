@@ -6,7 +6,7 @@ draw.io does not store diagram data at any time. Nor does it store any Personall
 
 The is a temporary storage of requests receive to the server that serves the web application. These logs contain information such as what resource was requested, the user agent of the browser. They do not contain the IP address of the request, that is filtered out at the CDN.
 
-The logs do not contains
+The logs do not contain diagram data or personally identifiable information.
 
 ### Does the data processed include Personally Identifiable Information (PII)?
 
