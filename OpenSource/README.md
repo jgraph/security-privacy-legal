@@ -38,7 +38,8 @@ Known vulnerabilities at nvd.nist.gov - No
 Function - Compression algorithms   
 Language - JavaScript   
 Repo - https://github.com/nodeca/pako     
-Compatible license - Yes, MIT , derived from zlib under ZLIB license   
+Compatible license - Yes, MIT , derived from zlib under ZLIB license
+Version used - 1.0.10
 History of commits visible - Yes   
 Dependencies - 0   
 Known vulnerabilities at nvd.nist.gov - No
