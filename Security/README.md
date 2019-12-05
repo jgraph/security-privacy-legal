@@ -13,3 +13,7 @@ If you would like a change to a security policy or wish specific questions to be
 Change requests must be limited to improvements to the public content in this repository. We will not fill in your security review for free products, even if you offer payment for the time taken to perform them.
 
 If your request relates to a paid product within the Atlassian ecosystem, you can either submit an issue on this project, or email support@draw.io.
+
+### Who manages security for the online version of draw.io?
+
+The project leads, David and Gaudenz, manage the security of the online version of draw.io. They are argumented, on a contract basis, by an experienced Security consultant who manages the policies and processes. Contracted penetration testers are also used. The use of direct testers has been more successful than consulting by large security firms, stand-alone testers tend to be more knowledgeable and more creative in their hacking attempts.
