@@ -16,4 +16,4 @@ If your request relates to a paid product within the Atlassian ecosystem, you ca
 
 ### Who manages security for the online version of draw.io?
 
-The project leads, David and Gaudenz, manage the security of the online version of draw.io. They are argumented, on a contract basis, by an experienced Security consultant who manages the policies and processes. Contracted penetration testers are also used. The use of direct testers has been more successful than consulting by large security firms, stand-alone testers tend to be more knowledgeable and more creative in their hacking attempts.
+The project leads, David and Gaudenz, manage the security of the online version of draw.io. They are augmented, on a contract basis, by an experienced Security consultant who manages the policies and processes. Contracted penetration testers are also used. The use of direct testers has been more successful than consulting by large security firms, stand-alone testers tend to be more knowledgeable and more creative in their hacking attempts.
