@@ -1,4 +1,4 @@
-# draw.io Security, Privacy and License texts
+# diagrams.net/draw.io Security, Privacy and License texts
 
 The repository contains version controlled master copies of security and privacy policies. The purposes of being version controlled is for you to be able to determine what policies and licenses applied on a specific date.
 
