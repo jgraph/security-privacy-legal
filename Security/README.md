@@ -8,7 +8,7 @@ In 2018 diagrams.net went through Google's internal security audit for use with 
 
 ### Security/Penetration Testing
 
-From May 2020 we have active program(s) on [Bugcrowd](https://www.bugcrowd.com/). We've found this continous testing process spread across a large number of security researchers to be much more effective . Therefore, the 2020 penetration test report is the last on that format.
+From May 2020 we have active program(s) on [Bugcrowd](https://www.bugcrowd.com/). We've found this continous testing process spread across a large number of security researchers to be much more effective . Therefore, the 2020 penetration test report is the last in that format.
 
 ### Change process
 
