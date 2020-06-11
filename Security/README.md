@@ -6,10 +6,6 @@ This documentation was created as the result of users asking for us to fill in s
 
 In 2018 diagrams.net went through Google's internal security audit for use with Google Drive and passed. Unfortunately, we have not been able to obtain permission to publish the details of the audit. If you are a paying GSuite user, you might wish to try asking Google for a copy.
 
-### Security/Penetration Testing
-
-From May 2020 we have active program(s) on [Bugcrowd](https://www.bugcrowd.com/). We've found this continous testing process spread across a large number of security researchers to be much more effective . Therefore, the 2020 penetration test report is the last in that format.
-
 ### Change process
 
 If you would like a change to a security policy or wish specific questions to be asked in the security FAQ, please submit an [issue](https://github.com/jgraph/security-privacy-legal/issues). You are free to propose any changes, but smaller, well explained additions and changes are more likely to be taken for review.
