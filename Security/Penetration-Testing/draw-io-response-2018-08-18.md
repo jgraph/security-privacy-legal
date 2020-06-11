@@ -15,5 +15,16 @@ The mitigations for this were:
 Fixes:
 
 https://github.com/jgraph/mxgraph2/commit/d9e8e3177b4baf6b0361df5bf7750645ecc12f12
+
 https://github.com/jgraph/mxgraph2/commit/2c3e347983768f6130c69e9fcb1a52b216b3f398
+
 https://github.com/jgraph/mxgraph2/commit/9a5a9423545162b71df99d61be77a761991c848e
+
+### 5.3 Weak Cipher Suites
+
+TLS 1.2 was set as the minimum TLS version, but beyond that we don't agree with this being medium criticality. The client is reponsible for sending its preferred order of suites and Cloudflare's preferred server order will agree a strong suite to any modern browser. As long as the range of suites and preferred order provides a strong suite to recent versions of every supported modern browser (we don't include IE 11 as modern), we deem it the responibility of the user to use a secure browser.
+
+Additionally, this would be an ongoing process and a configuration would only be correct until another suite were deemed weak.
+
+### 5.4 SSH Bruteforce
+
