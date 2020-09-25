@@ -1,4 +1,4 @@
-# Change Management Policy
+# Breach Notification Policy
 
 - Owner:      David Benson
 - Company:    JGraph Ltd
