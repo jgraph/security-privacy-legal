@@ -7,7 +7,7 @@ A common request is for us to provide a copy of our data processing agreement. U
 If you contact us, you are directed to the DPA of the platform you use to contact us with. Please read their DPA and ensure you restrictly PII to a minimal when using the platform(s).
 
 * Email : [Fastmail DPA](https://www.fastmail.com/about/dpa.html)
-* Helpdesk at desk.draw.io : [Freskdesk DPA](https://www.freshworks.com/data-processing-addendum/) (note that an email to support@draw.io is directed to freskdesk.) We do not like the broad scope of the Freskdesk DPA overly, if you wish to file a support email without * going through Freskdesk, email support@jgraph.com (paying users only).
+* Helpdesk at drawio.atlassian.net : [Atlassian DPA](https://www.atlassian.com/dam/jcr:a7be1b13-555e-4ba6-9579-0f3cb83ee123/Atlassian%20DPA%202020%2010%2012.pdf) (note that an email to support@draw.io is directed to our service desk hosted by Atlassian.)
 * Twitter : [Twitter DPA](https://gdpr.twitter.com/en/dpa.html)
 * Github : Github do not publish a DPA.
 * Google Groups : Google do not have a DPA specific to Groups.
