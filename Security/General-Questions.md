@@ -11,10 +11,10 @@ NN4 7BF,
 Northampton  
 UKM
 
-### 2. Who is the named contact for security issues?
+### 2. Who is the named contact for security and privacy issues?
 
 David Benson  
-+44 (0)20 8819 2590
+david@jgraph.com
 
 ### 3. Are you certified to any information security or quality standards e.g. ISO 27001, ISO 90001,Six Sigma.
 
