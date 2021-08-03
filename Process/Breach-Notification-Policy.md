@@ -2,8 +2,8 @@
 
 - Owner:      David Benson
 - Company:    JGraph Ltd
-- Version:    1.1
-- Published:  25 September 2020
+- Version:    1.11
+- Published:  03 August 2021
 - Status:     Published
 
 ### Background Information
@@ -32,3 +32,5 @@ In certain circumstances it is essential to report breaches within 72 hours of b
 - Determine, verify and notify the notifiable parties as required by legislative, contractual or regulatory requirements.
 - Identify, verify and validate the potential impact the breach may have upon individuals.
 - Contact and notify individuals of a data breach where a significant or adverse impact to an individual may be the result.
+
+Security breaches relating to Atlassian functionality must cause a notification to be sent to Atlassian, https://ecosystem.atlassian.net/servicedesk/customer/portal/14/group/39/create/129
