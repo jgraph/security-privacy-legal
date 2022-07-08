@@ -1,6 +1,6 @@
 ### diagrams.net/draw.io Security
 
-Contained are the master copies of draw.io security documentation. This includes security policy documentation, Q&A of security reviews for SaaS security compliance and penetration test reports and reponses.
+Contained are copies of draw.io security documentation. This includes security policy documentation, Q&A of security reviews for SaaS security compliance and penetration test reports and reponses.
 
 This documentation was created as the result of users asking for us to fill in security audits. The idea is to generate a knowledge base complete enough such that you can that this information and will be able to fill in those audits.
 
